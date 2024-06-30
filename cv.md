@@ -27,3 +27,18 @@ Now I am studying at university, where I am learning programming languages, such
 
 ---
 
+## **Codes**
+As an example i created an array, called **arr**. This array outputs all the numbers it contains in C++.
+```
+int Main {
+    int arr[10] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+
+    for(int i = 0; i < 10; i++){
+        cout << arr[i];
+    }
+
+    cout << endl;
+}
+```
+---
+
