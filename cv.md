@@ -1,4 +1,3 @@
-# rsschool-cv
 # Tsimafei Sushchenia
 
 ## **Contacts**
