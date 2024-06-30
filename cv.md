@@ -47,3 +47,9 @@ Finished HTML and CSS courses in 2021. Currently learning C++ and Java in my uni
 
 ---
 
+## **Languages**
+
+* English 
+* Russian
+* Polish
+
