@@ -9,3 +9,12 @@
 * Telegram: @thetimasuschenia
 
 ---
+
+## **About me**
+My name is Tim. I'm from Belarus. I am 19 years old, in 2023 graduated from high school, and now I am studying in Poland at university UMCS(Uniwersytet Marii Curie-Skłodowskiej), faculty of computer science, physics and mathematics. 
+
+A few years ago I started to get interested in the IT sphere. And then I went to my first courses in the company IT-club. there I studied for about three years, during this time I learned HTML, CSS and a little bit of JavaScript and react. 
+
+Now I am studying at university, where I am learning programming languages, such as C++, Java, SQL. I have communication skills, a desire to learn new things and develop my other skills. I speak Russian at native level, English B2, and Polish B1. I plan to develop in the IT sphere, to meet new people through it, and to work in some company. 
+
+---
